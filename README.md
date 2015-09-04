@@ -3,6 +3,8 @@
 Design patterns represent the best practices used by experienced object-oriented software developers.
 Design patterns are solutions to general problems that software developers faced during software development. 
 These solutions were obtained by trial and error by numerous software developers over quite a substantial period of time.
+>>BEST BOOK TO LEARN DESIGN PATTERNS : http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf
+>>PAID VERSION OF THIS BOOK:         : http://www.amazon.com/dp/0596007124//ref=cm_sw_su_dp?tag=nethta-20
 
 #Singleton pattern: 
 Singleton pattern is one of the simplest design patterns in Java.
